@@ -1,0 +1,1 @@
+Worked on reddit bot all day. Most of the time was spent researching API's and PRAW. Almost got the "bot" part to work by the end. 
