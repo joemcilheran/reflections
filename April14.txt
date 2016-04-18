@@ -1,0 +1,2 @@
+finished my redditbot. Then we worked on the Create your own Adventure project. I got that to a functional condition, but I could refine it more.
+learned about classes and started Rock-paper-scissors, though I really don't understand it yet
